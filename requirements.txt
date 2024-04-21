@@ -1,0 +1,9 @@
+requests
+sqlalchemy
+pandas
+json
+datetime
+sqlite3
+urllib
+virtualenv
+airflow

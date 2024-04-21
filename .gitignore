@@ -1,0 +1,4 @@
+__pycache__
+env_airflow
+env_spotify-etl
+my_played_tracks.sqlite
